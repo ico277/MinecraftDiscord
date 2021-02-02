@@ -1,0 +1,4 @@
+bot:
+  token: token here
+  channelID: message channel ID here
+  prefix: !

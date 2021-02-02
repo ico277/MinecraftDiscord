@@ -1,0 +1,5 @@
+name: MinecraftDiscord
+version: 0.0.1-BETA
+api-version: 1.16
+author: ico277
+main: xyz.ico277.MinecraftDiscord.Minecraft.MinecraftMain
